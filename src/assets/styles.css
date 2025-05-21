@@ -1,0 +1,19 @@
+/* Custom global styles that don't fit into theme or components */
+
+/* Custom utility classes */
+.text-shadow {
+  text-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+}
+
+.text-shadow-lg {
+  text-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+}
+
+/* Custom transitions */
+.transition-all-300 {
+  transition: all 300ms ease-in-out;
+}
+
+.transition-all-500 {
+  transition: all 500ms ease-in-out;
+} 
